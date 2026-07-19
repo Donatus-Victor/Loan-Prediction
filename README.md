@@ -13,8 +13,8 @@ This project uses historical applicant and financial data to classify borrowers 
 
 ## Tech Stack
 - **Language:** Python
-- **Libraries:** Scikit-learn, Pandas, NumPy
-- **Model type:** Classification (e.g., Logistic Regression / Random Forest / XGBoost)
+- **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Model type:** Classification Suport Vector Machine
 
 ## How It Works
 1. Load and preprocess applicant data (handle missing values, encode categorical features)
@@ -27,7 +27,7 @@ This project uses historical applicant and financial data to classify borrowers 
 git clone https://github.com/Donatus-Victor/<repo-name>.git
 cd <repo-name>
 pip install -r requirements.txt
-python app.py
+python loan.py
 ```
 
 ## Results
