@@ -33,6 +33,8 @@ python loan.py
 ## Results
 Model performance metrics and key findings are documented in the notebook/report included in this repo.
 
+**Streamlit Link** - https://loan-prediction-status.streamlit.app/
+
 ## Author
 **Donatus Victor** — Senior Data Scientist
 [LinkedIn](https://linkedin.com/in/donatusvictor) | [GitHub](https://github.com/Donatus-Victor)
